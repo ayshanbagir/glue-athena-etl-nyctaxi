@@ -67,4 +67,4 @@ Uploaded `yellow_tripdata.csv` and `taxi_zone_lookup.csv` to `nyc-taxi-etl-aysha
 
 ## 📷 Architecture Diagram
 
-![Architecture Diagram](architecture.jpeg)
+![Architecture Diagram](architecture.png)
